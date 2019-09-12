@@ -1,6 +1,26 @@
 body {
-    background-color:#2c2f36;
+    background:#1c1d20;
 }
 h1 {
-    color: #f9ffc6;
+    color: #ffffff;
+}
+ul {
+    list-style-type: none;
+}
+li {
+    float: left;
+    background-color: #0071db;
+}
+li a {
+    display: inline-block;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 16px;
+}
+li a:hover {
+    background-color: #1d92ff
+}
+.active {
+    background-color:#0256a5
 }
