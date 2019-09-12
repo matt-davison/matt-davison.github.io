@@ -6,6 +6,9 @@ body {
 h1 {
     color: #ffffff;
 }
+a:link, a:visited {
+    color:#97e7ff;
+}
 h2,p {
     color: #ffffff;
     text-align: center;
