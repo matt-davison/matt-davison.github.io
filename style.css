@@ -1,8 +1,14 @@
 body {
-    background:#1c1d20;
+    margin: 32px;
+    background:#242220;
+    font-family:Tahoma, Geneva, sans-serif;
 }
 h1 {
     color: #ffffff;
+}
+h2,p {
+    color: #ffffff;
+    text-align: center;
 }
 ul {
     list-style-type: none;
